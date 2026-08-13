@@ -14,7 +14,7 @@ import bootstrapLogo from './assets/tech_logo/bootstrap.png';
 import photoshopLogo from "./assets/tech_logo/photoshop.png";
 import illustratorLogo from "./assets/tech_logo/illustrator.png";
 import canvaLogo from "./assets/tech_logo/canva.png";
-import uiDesignLogo from "./assets/tech_logo/ui-design.png";
+import uiDesignLogo from "./assets/tech_logo/ui-Design.png";
 import brandingLogo from "./assets/tech_logo/branding.png";
 import socialMediaLogo from "./assets/tech_logo/social-media.png";
 import cLogo from './assets/tech_logo/c.png';
