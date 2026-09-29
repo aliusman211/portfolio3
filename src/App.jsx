@@ -8,7 +8,7 @@ import Education from "./components/Education/Education";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
-
+<meta name="google-site-verification" content="_YYQ0MbTflYqIFVNa4KRZOQpPDR6BopV5tTsf0koKNQ" />
 const App = () => {
   return (
     <div className="bg-[#050414]">
